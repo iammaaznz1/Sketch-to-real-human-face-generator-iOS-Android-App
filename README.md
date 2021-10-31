@@ -34,3 +34,14 @@ samples, guidance on mobile development, and a full API reference.
     8) command >> conda install -c conda-forge flask-restful
     9) command >> conda install -c anaconda pip
 
+# Open Project in Android Studio
+- >> Open Anaconda Promt
+    1) command >> conda activate ml
+    2) command >> cd "COPY PAST THE FaceAppFlaskServer PATH"
+    3) command >> set FLASK_APP=humanFaceFlask.py
+    4) command >> set FLASK_ENV=development
+    5) command >> flask run --host=COPY PAST YOUR ipv4 Address
+    6) Make sure to change to your ipv4 address in homeScreen.Dart Class in line 61
+    7) ** DON'T CLOSE THE ANOCONDA PROMT WHILE RUNNING THE APPLICATION **
+  
+
