@@ -23,7 +23,7 @@ samples, guidance on mobile development, and a full API reference.
 - Flutter SDK (After installing Flutter add Flutter & Dart Plugins in Android Studio)
 - Download Python
 - Download Anaconda Distribution
-->> Open Anaconda Promt as a admin
+- >> Open Anaconda Promt as a admin
     1) command >> conda create --name ml
     2) command >> conda activate ml
     3) command >> conda install -c conda-forge keras
