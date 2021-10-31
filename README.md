@@ -17,3 +17,11 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Download this repository and FaceFlaskServerAppServer repository from my project repositories
 
+# Download and Install
+- Android Studio
+- Visual Studio Code 
+- Flutter SDK (After installing Flutter add Flutter & Dart Plugins in Android Studio)
+- Download Python
+- Download Anaconda Distribution
+
+
