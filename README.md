@@ -43,7 +43,8 @@ samples, guidance on mobile development, and a full API reference.
     5) command >> flask run --host=COPY PAST YOUR ipv4 Address
     6) Make sure to change to your ipv4 address in homeScreen.Dart Class in line 61
   - >> DON'T CLOSE THE ANOCONDA PROMT WHILE RUNNING THE APPLICATION
-  - >> ** ENJOY THE APPLICATION **
-     
-     ** THANK YOU **
+  - >>   ENJOY THE APPLICATION    
+
+ 
+  - >>                THANK YOU 
 
